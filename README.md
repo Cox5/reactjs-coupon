@@ -11,4 +11,4 @@
 
 ## Demo
  
-![alt text]()
+![Discount demo]("https://github.com/Cox5/reactjs-coupon/blob/main/coupon_gif.gif")
